@@ -39,7 +39,7 @@ Yiheng Li, **Ruibing Hou**, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, hi
 - 2022 Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
 - 2022 CAS President Award (Special Prize) (中国科学院院长特别奖)
 - 2022 Excellent Graduate of Beijing & UCAS. (北京市优秀毕业生，中国科学院大学优秀毕业生)
-- 2022 Director Scholarship (Special Prize), ICT, CAS. (中国科学院信工所所长特别奖)
+- 2022 Director Scholarship (Special Prize), ICT, CAS. (中国科学院计算所所长特别奖，夏培肃奖)
 - 2019 National Scholarship, Ministry of Education of the PRC. (国家奖学金)
 
 # 📖 Educations
