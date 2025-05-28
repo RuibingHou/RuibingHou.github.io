@@ -29,7 +29,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 # 📝 Publications 
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
 
-Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
+Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan (TMM, 2025)
 
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
 
