@@ -21,19 +21,23 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One papers is accepted by TMM'25. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML’25. 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR'25.
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24. 
 
 # 📝 Publications 
+[RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
+
+Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
 
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
 
-Wen Wang, **Ruibing Hou**, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
+Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
 
 [UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2502.13433)
 
-Yiheng Li, **Ruibing Hou**, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
+Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
 
 # 🎖 Honors and Awards
 - 2022 Postdoctoral Innovation Talent Support Program, Ministry of Human Resources and Social Security of PRC (博士后创新人才支持计划)
