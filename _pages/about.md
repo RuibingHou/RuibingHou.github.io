@@ -21,13 +21,22 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One papers is accepted by TMM'25. 
+- *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCV'25.
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted by TMM'25. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML’25. 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR'25.
 - *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24.
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
+[HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://arxiv.org/pdf/2503.12955?)
+
+Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan (ICCV, 2025)
+
+[Morph: A Motion-free Physics Optimization Framework for Human Motion Generation](https://arxiv.org/pdf/2411.14951)
+
+Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li (ICCV, 2025)
+
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
 
 Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan (TMM, 2025)
