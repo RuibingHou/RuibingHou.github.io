@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor in Visual Information Processing and Learning (VIPL) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2022, under the supervision of Prof. Hong Chang. My research interests mainly focus on multimodal large language model and 3D humam modeling. Feel free to reach out to me if you have an interest in the relevant topics.
+I am currently an Associate Professor in Visual Information Processing and Learning (VIPL) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2022, under the supervision of Prof. Hong Chang. My research interests mainly focus on multimodal large language model and 3D humam modeling. Feel free to reach out to me if you have an interest in the relevant topics. 
+
+**Internship and Graduate Student Openings**: I am looking for highly self-motivated interns and graduate students. Ideal candidates should have strong programming skills and a good command of English. If you are interested in research topics such as 3D human modeling and multimodal large models, please feel free to send me your detailed CV. Email: houruibing@ict.ac.cn
 
 
 # 🔥 News
