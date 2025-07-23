@@ -62,6 +62,8 @@ Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo L
 
 Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan 
 
+*IEEE Transactions on Multimedia (TMM) 2025.*
+
 </div>
 </div>
 
@@ -70,17 +72,21 @@ Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
 
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
 
-Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
+Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen 
+
+*International Conference on Machine Learning (ICML), 2025*
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025, Highlight</div><img src='images/unipose.png' alt="unipose"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/unipose.png' alt="unipose"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2411.16781)
 
-Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
+Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen 
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, Highlight) 2025.*
 
 </div>
 </div>
