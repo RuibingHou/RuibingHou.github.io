@@ -41,9 +41,15 @@ Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/morph.png' alt="morph" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Morph: A Motion-free Physics Optimization Framework for Human Motion Generation](https://arxiv.org/pdf/2411.14951)
 
-Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li (ICCV, 2025)
+Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li
+
+</div>
+</div>
 
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
 
