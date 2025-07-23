@@ -31,7 +31,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://arxiv.org/pdf/2503.12955?)
@@ -41,7 +41,7 @@ Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/morph.png' alt="morph" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/morph.png' alt="morph" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Morph: A Motion-free Physics Optimization Framework for Human Motion Generation](https://arxiv.org/pdf/2411.14951)
