@@ -38,6 +38,9 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan (ICCV, 2025)
 
+</div>
+</div>
+
 [Morph: A Motion-free Physics Optimization Framework for Human Motion Generation](https://arxiv.org/pdf/2411.14951)
 
 Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo Liu, Chen Li (ICCV, 2025)
