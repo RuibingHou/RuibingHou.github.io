@@ -71,15 +71,15 @@ Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/unipose.png' alt="unipose"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025, Highlight</div><img src='images/unipose.png' alt="unipose"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2411.16781)
 
-</div>
-</div>
-
 Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
+
+</div>
+</div>
 
 [MGPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation](https://arxiv.org/pdf/2405.16273)
 
