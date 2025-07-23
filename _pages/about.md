@@ -91,9 +91,16 @@ Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/m3gpt.png' alt="m3gpt"></div></div>
+<div class='paper-box-text' markdown="1">
 [MGPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation](https://arxiv.org/pdf/2405.16273)
 
 Mingshuang Luo, **Ruibing Hou***, Zhuo Li, Hong Chang, Zimo Liu, Yaowei Wang, Shiguang Shan (NeurIPS 2024)
+
+*Neural Information Processing Systems (NeurIPS) 2024.*
+
+</div>
+</div>
 
 [UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models](https://arxiv.org/pdf/2411.06921)
 
