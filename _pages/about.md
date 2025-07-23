@@ -31,12 +31,12 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://arxiv.org/pdf/2503.12955?)
 
-Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan (ICCV, 2025)
+Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan
 
 </div>
 </div>
