@@ -95,7 +95,7 @@ Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen
 <div class='paper-box-text' markdown="1">
 [MGPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation](https://arxiv.org/pdf/2405.16273)
 
-Mingshuang Luo, **Ruibing Hou***, Zhuo Li, Hong Chang, Zimo Liu, Yaowei Wang, Shiguang Shan (NeurIPS 2024)
+Mingshuang Luo, **Ruibing Hou***, Zhuo Li, Hong Chang, Zimo Liu, Yaowei Wang, Shiguang Shan
 
 *Neural Information Processing Systems (NeurIPS) 2024.*
 
