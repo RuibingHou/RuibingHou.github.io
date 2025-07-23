@@ -51,7 +51,7 @@ Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="morph" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="refhuman" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
@@ -61,11 +61,17 @@ Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/santa' alt="santa" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
 
 Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
 
-[UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2502.13433)
+</div>
+</div>
+
+[UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2411.16781)
 
 Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
 
