@@ -31,7 +31,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding](https://arxiv.org/pdf/2503.12955?)
@@ -41,7 +41,7 @@ Jiahe Zhao, **Ruibing Hou***, Zejie Tian, Hong Chang, Shiguang Shan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/morph.png' alt="morph" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/morph.png' alt="morph"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Morph: A Motion-free Physics Optimization Framework for Human Motion Generation](https://arxiv.org/pdf/2411.14951)
@@ -51,7 +51,7 @@ Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="refhuman" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="refhuman"</div></div>
 <div class='paper-box-text' markdown="1">
 
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
@@ -61,7 +61,7 @@ Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/santa' alt="santa" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/santa.png' alt="santa"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
@@ -71,7 +71,13 @@ Wen Wang, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (ICML, 2025)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/unipose.png' alt="unipose"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing](https://arxiv.org/pdf/2411.16781)
+
+</div>
+</div>
 
 Yiheng Li, **Ruibing Hou***, Hong Chang, Shiguang Shan, Xilin Chen (CVPR 2025, highlight)
 
