@@ -51,7 +51,7 @@ Zhuo Li, Mingshuang Luo, **Ruibing Hou***, Xin Zhao, Hao Liu, Hong Chang, Zimo L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="refhuman"</div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/refhuman.png' alt="refhuman"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RefHCM: A Unified Model for Referring Perceptions in Human-Centric Scenarios](https://arxiv.org/pdf/2412.14643)
@@ -61,7 +61,7 @@ Jie Huang, **Ruibing Hou***, Jiahe Zhao, Hong Chang, Shiguang Shan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/santa.png' alt="santa"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/santa.png' alt="santa"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MATS: An Audio Language Model under Text-only Supervision](https://arxiv.org/pdf/2502.13433)
