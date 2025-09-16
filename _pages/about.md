@@ -23,6 +23,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by IJCV'25.
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCV'25.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by TMM'25. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML’25. 
@@ -31,6 +32,11 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
+
+Bilateral Transformation of Biased Pseudo-Labels under Distribution Inconsistenc.
+
+**Ruibing Hou***, Hong Chang, Minyang Hu, Shiguang Shan, Xilin Chen (IJCV 2025)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT"></div></div>
 <div class='paper-box-text' markdown="1">
 
