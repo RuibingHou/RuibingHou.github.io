@@ -35,7 +35,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 Bilateral Transformation of Biased Pseudo-Labels under Distribution Inconsistenc.
 
-**Ruibing Hou***, Hong Chang, Minyang Hu, Shiguang Shan, Xilin Chen (IJCV 2025)
+**Ruibing Hou**, Hong Chang*, Minyang Hu, Shiguang Shan, Xilin Chen (IJCV 2025)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT"></div></div>
 <div class='paper-box-text' markdown="1">
