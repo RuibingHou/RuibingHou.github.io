@@ -23,6 +23,7 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS'25.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by IJCV'25.
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCV'25.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by TMM'25. 
