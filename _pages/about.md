@@ -23,16 +23,24 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One papers is accepted by SIGGRAPH'26.
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR'26.
 - *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS'25.
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by IJCV'25.
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCV'25.
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted by TMM'25. 
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML’25. 
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR'25.
-- *2024.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS'24.
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by TPAMI'24. 
 
 # 📝 Publications 
+
+DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning.
+
+Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, **Ruibing Hou**, Hong Chang, Yong Li, Yuan Zhang, Mingyuan Gao (SIGGRAPH 2026)
+
+Revisiting Multimodal Positional Encoding in Vision-Language Models.
+
+Jie Huang, Xuejing Liu, Sibo Song, **Ruibing Hou**, Hong Chang, Junyang Lin, Shuai Bai (ICLR 2026)
 
 Bilateral Transformation of Biased Pseudo-Labels under Distribution Inconsistenc.
 
