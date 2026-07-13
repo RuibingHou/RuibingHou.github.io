@@ -34,17 +34,11 @@ I am currently an Associate Professor in Visual Information Processing and Learn
 
 # 📝 Publications 
 
-DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning.
+DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning, Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, **Ruibing Hou**, Hong Chang, Yong Li, Yuan Zhang, Mingyuan Gao (SIGGRAPH 2026)
 
-Mingshuang Luo, Shuang Liang, Zhengkun Rong, Yuxuan Luo, Tianshu Hu, **Ruibing Hou**, Hong Chang, Yong Li, Yuan Zhang, Mingyuan Gao (SIGGRAPH 2026)
+Revisiting Multimodal Positional Encoding in Vision-Language Models, Jie Huang, Xuejing Liu, Sibo Song, **Ruibing Hou**, Hong Chang, Junyang Lin, Shuai Bai (ICLR 2026)
 
-Revisiting Multimodal Positional Encoding in Vision-Language Models.
-
-Jie Huang, Xuejing Liu, Sibo Song, **Ruibing Hou**, Hong Chang, Junyang Lin, Shuai Bai (ICLR 2026)
-
-Bilateral Transformation of Biased Pseudo-Labels under Distribution Inconsistenc.
-
-**Ruibing Hou**, Hong Chang*, Minyang Hu, Shiguang Shan, Xilin Chen (IJCV 2025)
+Bilateral Transformation of Biased Pseudo-Labels under Distribution Inconsistency, **Ruibing Hou**, Hong Chang*, Minyang Hu, Shiguang Shan, Xilin Chen (IJCV 2025)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/his-gpt.png' alt="HIS-GPT"></div></div>
 <div class='paper-box-text' markdown="1">
